@@ -1,0 +1,120 @@
+# 🧩 Agenda de Estudos Complementares — Algoritmos 
+
+**Data:**  06/01 -- 07/01
+**Tempo disponível:**  
+**Energia do dia (baixa / média / alta):**
+
+---
+
+## 🔗 Conexão com AED I (Aula)
+
+**Conteúdo visto em aula hoje / recentemente:**
+- Matrizes
+
+**Objetivo desta sessão complementar:**
+- Revisar a implementação de algoritmos em arrays e ganhar fluidez
+- Aplicar de novos problemas de arrays (NeetCode150)
+- Refinar e afiar o pensamento algoritmico e noções de complexidade
+
+**Status do conteúdo na aula:**
+- [ ] Ainda confuso  
+- [ ] Entendi, mas não domino  
+- [ ] Domínio razoável  
+- [ ] Dominado (quero desafios)
+
+---
+
+## 🎯 Tópico-Alvo do Dia (Ajustável)
+
+**Estrutura / Conceito central:**
+- Arrays
+
+**Padrões de problema relacionados:**
+- Arrays & Hashing
+
+---
+
+## 📚 Revisão Rápida Orientada a Problema (10–20 min)
+
+> Revisão mínima, focada só no que o problema exige.
+
+**Fonte:**
+- Repositório de Estudos - Implementação de Algoritmos (AED)
+
+- Repositório de Estudos de IP (Revisão) - Implementação de Algoritmos em C
+
+- Artigos linkados em `https://neetcode.io/roadmap` em Arrays & Hashing
+
+- Problemas de Leetcode linkados no mesmo endereço
+
+---
+
+## 🧪 LeetCode — Prática Guiada
+
+### 🟢 Aquecimento (Easy)
+**Problema(s):**
+- [ ] Nome / Link  
+- Ideia principal:
+- Complexidade esperada:
+
+### 🟡 Desenvolvimento (Medium)
+**Problema(s):**
+- [ ] Nome / Link  
+- Estratégia usada:
+- Onde travei:
+- O que destravou:
+
+### 🔴 (Opcional) Desafio
+**Problema:**
+- [ ] Nome / Link  
+- Por que escolhi esse?
+- Valeu a pena? (sim/não/voltar depois)
+
+---
+
+## 🧠 Análise Pós-Problema (Parte Mais Importante)
+
+**Padrão identificado:**
+- (ex: sempre que vejo X, penso em Y)
+
+**Erros recorrentes:**
+- 
+- 
+
+**O que a aula NÃO deixou claro, mas o problema revelou:**
+- 
+
+---
+
+## 🔄 Ligação Direta com AED I
+
+**Esse problema reforça qual conceito da disciplina?**
+- (ex: custo assintótico, acesso direto, laços aninhados)
+
+**Se isso cair em prova de AED I, como pode aparecer?**
+- (ex: análise de código, implementação manual)
+
+---
+
+## 🧱 Consolidação Ativa
+
+**Se eu tivesse que explicar isso para alguém, eu diria:**
+- 
+
+**Checklist mental para próximos problemas desse tipo:**
+- [ ] Entender entradas e saídas
+- [ ] Mapear estrutura dominante
+- [ ] Pensar na complexidade antes de codar
+
+---
+
+## ➡️ Próximo Passo
+
+**O que estudar / resolver na próxima sessão:**
+- 
+
+**Esse tópico precisa ser revisitado?**
+- [ ] Sim  
+- [ ] Não  
+
+---
